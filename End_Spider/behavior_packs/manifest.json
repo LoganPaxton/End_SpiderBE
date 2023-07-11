@@ -1,0 +1,29 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "End Spider",
+		"name": "Made by VotelessFrog982",
+		"uuid": "e9804196-1ff9-11ee-be56-0242ac120002",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "e9804196-1ff9-11ee-be56-0242ac120002",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
